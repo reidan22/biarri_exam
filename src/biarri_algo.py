@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 
 # Loading up csv
-df = pd.read_csv(r"./csv/data_3600.csv")
+df = pd.read_csv(r"../csv/data_3600.csv")
 # df = pd.read_csv(r"./csv/data_all.csv")
 # pd.set_option('display.max_rows', 500)
 
