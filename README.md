@@ -19,7 +19,6 @@
 | data_3600.csv  	| 1  (default)	|
 | data_36000.csv 	| 2    	|
 | data_36000.csv 	| 3    	|
-```
 
 ## Script output
 - The terminal will display information about when a transaction was "Opened" and "Closed"
